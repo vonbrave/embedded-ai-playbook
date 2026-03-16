@@ -33,6 +33,12 @@
 - 文件命名尽量使用英文、短横线风格
 - 示例内容可中文编写，但路径名建议尽量稳定、清晰
 
+## 最近更新
+
+<!-- AUTO-README-UPDATES:START -->
+- 2026-03-16：重构 review-embedded skill，新增 focus/full 模式、平台识别流程与多平台参考资料。
+<!-- AUTO-README-UPDATES:END -->
+
 ## 后续规划
 
 - Claude CLI skill 模板
